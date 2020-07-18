@@ -1,0 +1,27 @@
+Error Codes,Error Description
+62,Network Connection Aborted. Please restart HSDC Pro GUI.
+63,HSDC Pro GUI is not Open. Please open the HSDC Pro GUI before using the Automation DLL.
+66,Connection Closed. Please restart HSDC Pro GUI.
+5000,Automation DLL Timeout. The Automation DLL was unable to receive confirmation about the command transfer to the GUI.
+7001,Warning : Input(s) which were out of range were coerced.
+7002,Board not connected.
+7003,Device not selected.
+7004,Board handle not found. 
+7005,Device not found.
+7006,File/Folder Path Invalid. Please check the file path.
+7007,File not found.
+7008,Invalid Firmware File Type.
+7009,Data Type Conversion Error.
+7010,Firmware Download Error.
+7011,"Hardware Trigger not set. Please set the hardware trigger setting using the ""Trigger Option"" function before reading the DDR memory."
+7012,"Software Trigger not set.Please set the software trigger setting using the ""Trigger Option"" function before generating a software trigger."
+7013,No Trigger Occurred. HSDCPro did not receive any trigger within its waiting period of 10 seconds.
+7014,Read DDR to File Timeout Error.
+7015,Frame Clock Error has occurred.
+7016,ADC Output Data Rate Invalid.
+7017,DAC Data Rate Invalid.
+7018,Invalid Command.
+7019,FTDI Error.
+7020,ADC is not the Active Tab. Use the select ADC device function to make the ADC tab active.
+7021,DAC is not the Active Tab. Use the select DAC device function to make the DAC tab active.
+7022,Invalid Scaling Factor Value
