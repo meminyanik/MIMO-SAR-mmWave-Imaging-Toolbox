@@ -1,0 +1,2 @@
+Please download the entire '20190523_smallPlatform_scissorsInBox_400By400' folder from the following link and copy it under this 'RecordedData_Example' folder:
+https://utdallas.box.com/v/mimo-sar-mmwave-toolbox-data
